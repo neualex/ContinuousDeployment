@@ -1,2 +1,0 @@
-# ContinuousDeployment
-Azure Continuous Deployment
